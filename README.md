@@ -1,5 +1,5 @@
 Görüntü işleme (Computer Vision) öğrenme sürecimde yaptığım bu projede, bir görseldeki nesneyi arka plandan ayırmayı ve rengini değiştirmeyi denedim.
-Bu kod, kırmızı bir gülü alıyor, arka planını temizliyor ve rengini mora çeviriyor. Bunu yaparken manuel bir eşik değeri (threshold) girmek yerine, Otsu Metodu kullanarak en uygun değeri otomatik hesaplatıyorum.
+Bu kod, kırmızı bir gülü alıyor, arka planını temizliyor ve rengini mora çeviriyor. Bunu yaparken manuel bir eşik değeri (threshold) girmek yerine, Otsu Metodu en uygun değeri otomatik hesaplıyor.
 
 Projenin Amacı
 RGB katmanlarını (kanallarını) yönetmek.
