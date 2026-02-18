@@ -2,7 +2,7 @@ import cv2
 from src.kernelHelper import maske_olustur, rengi_degistir, arka_plani_karart
 
 # Görseli yükle
-img = cv2.imread("rose.jpeg")
+img = cv2.imread('input/rose.jpeg')
 
 # Maske oluştur
 maske, otsu_degeri = maske_olustur(img)
@@ -20,3 +20,4 @@ cv2.imshow("SONUC", sonuc)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
