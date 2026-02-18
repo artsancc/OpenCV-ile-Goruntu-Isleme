@@ -33,8 +33,10 @@ Proje klasörüne rose.jpeg adında bir görsel ekleyin (veya kod içindeki dosy
 
 Kodu çalıştırın.
 
-Örnek Girdi ve Çıktılar
+##Input
 ![rose](https://github.com/user-attachments/assets/840bd0d1-db7f-49ff-9fe9-aed246cbf1d2)
+
+##Output
 <img width="1494" height="1034" alt="image" src="https://github.com/user-attachments/assets/7df91cb6-8557-4eb2-98d9-15afbb7f7516" />
 <img width="1498" height="1045" alt="image" src="https://github.com/user-attachments/assets/c18462a2-bddb-48fd-923d-0a21195571bf" />
 
