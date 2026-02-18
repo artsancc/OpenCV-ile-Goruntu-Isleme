@@ -18,6 +18,11 @@ sonuc = arka_plani_karart(mor_resim, maske)
 cv2.imshow("OTSU MASK", maske)
 cv2.imshow("SONUC", sonuc)
 
+# Görselleri output klasörüne kaydeder
+cv2.imwrite("output/maske.png", maske)
+cv2.imwrite("output/sonuc.png", sonuc)
+
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
 
